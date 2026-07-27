@@ -1,0 +1,29 @@
+Exercise_Dictionary_1.txt
+
+1.
+list = [("name", "Elie"), ("job", "Instructor")]
+dictionary = {key: value for key, value in list}
+print(dictionary)
+
+2.
+abvr = ["CA", "NJ", "RI"]
+states = ["California", "New Jersey", "Rhode Island"]
+
+pairs = dict(zip(abvr, states))
+print(pairs)
+
+3.
+vowels = ['a', 'e', 'i', 'o', 'u']
+dictionary = {vowel: 0 for vowel in vowels}
+print(dictionary)
+
+4.
+# creating a librabry of sets of 26 characters and a number.
+characters = {i: chr(64 + i) for i in range(1, 27)}
+print(characters)
+
+5.
+string = "awesome sauce"
+vowels = 'aeiou'
+vowel_count = {vowel: string.count(vowel) for vowel in vowels}
+print(vowel_count)
