@@ -111,5 +111,5 @@ my_height = int(input("Please enter your height in centimeters. "))
 if my_height >= min_height:
     print("You are tall enough to ride, enjoy!")
 else:
-    print("Looks like you still need to grow some befor you can ride.")
+    print("Looks like you still need to grow some before you can ride.")
 
