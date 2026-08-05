@@ -11,8 +11,6 @@
 # I love python
 # I love python
 
-from calendar import month
-
 
 print(("Hello world\n" * 4) + ("I love python\n" * 4)) # Prints Hello world 4 times on a new line and I love python 4 times on a new line.
 
