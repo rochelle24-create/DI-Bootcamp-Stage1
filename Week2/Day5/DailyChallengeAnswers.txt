@@ -1,0 +1,26 @@
+# Instructions:
+
+
+
+# Exercise 1: Quizz
+# Answer the following questions:
+
+Questions:
+#1 What is a class?
+#2 What is an instance?
+#3 What is encapsulation?
+#4 What is abstraction?
+#5 What is inheritance?
+#6 What is multiple inheritance?
+#7 What is polymorphism?
+#8 What is method resolution order or MRO?
+
+Answers:
+# 1. A class is a template for an object with structure and differnet behaiviors and attributes.
+# 2. An instance is an object from the class created from the template.
+# 3. Encapsulatioin is the idea of bundling and hiding the internal details of attributes and methods.
+# 4. Abstraction is the idea of the user only interacting with the outmost layer of what something does without knowing it's inner workings.
+# 5. Inheritence is the ability of a class to pass down or to aquire attributes from a parent class or to a child class, it gets the existing attribues and methods.
+# 6. Multiple Inheritance means a class inherits from more than one parent class. It gets attributes and methods from all of them.
+# 7. Polymorphism means many faces, it is a concept that means that different methods can take on different forms depending on the type of object.
+# 8. MRO is the order of the inheritence of a method that might inheret from more than one class, with MRO the first class in the order matters.
